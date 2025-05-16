@@ -1,3 +1,7 @@
+create database if not exists thumb;
+
+use thumb;
+
 -- 用户表
 create table if not exists user
 (
